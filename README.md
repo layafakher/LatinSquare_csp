@@ -1,2 +1,2 @@
 # LatinSquare_csp
-simple latin square solver using backtracking and forwardcheckin and min-conflict huristic 
+simple latin square solver using backtracking, forwardchecking and min-conflict huristic 
